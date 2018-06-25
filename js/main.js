@@ -1,3 +1,3 @@
 jQuery(document).ready(function(){
-  jQuery("#main").html('Hell O WorLd!!!')
+  jQuery("main").html('Hell O WorLd!!!')
 })
